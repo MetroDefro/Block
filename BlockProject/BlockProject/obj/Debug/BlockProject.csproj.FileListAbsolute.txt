@@ -1,0 +1,20 @@
+D:\내폴더\갠프\BlockProject\BlockProject\bin\Debug\BlockProject.exe.config
+D:\내폴더\갠프\BlockProject\BlockProject\bin\Debug\BlockProject.exe
+D:\내폴더\갠프\BlockProject\BlockProject\bin\Debug\BlockProject.pdb
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.csprojAssemblyReference.cache
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.BlockBreaker.resources
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.Properties.Resources.resources
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.csproj.GenerateResource.cache
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.csproj.CoreCompileInputs.cache
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.exe
+D:\내폴더\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.pdb
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\bin\Debug\BlockProject.exe.config
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\bin\Debug\BlockProject.exe
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\bin\Debug\BlockProject.pdb
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.csprojAssemblyReference.cache
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.BlockBreaker.resources
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.Properties.Resources.resources
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.csproj.GenerateResource.cache
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.csproj.CoreCompileInputs.cache
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.exe
+D:\DefroMat\3학년 1학기\갠프\BlockProject\BlockProject\obj\Debug\BlockProject.pdb
